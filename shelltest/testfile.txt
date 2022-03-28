@@ -1,0 +1,4 @@
+hello world 
+editing in shell test file in terminal 
+testing git executing commands through file in terminal
+
